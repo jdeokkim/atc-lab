@@ -1,4 +1,4 @@
-# [abc042_a](https://atcoder.jp/contests/abc042/tasks/abc042_a)
+# [abc042_a (Iroha and Haiku (ABC Edition))](https://atcoder.jp/contests/abc042/tasks/abc042_a)
 
 <details>
   <summary>알고리즘 분류</summary>

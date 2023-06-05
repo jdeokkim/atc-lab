@@ -1,4 +1,4 @@
-# [abc139_b](https://atcoder.jp/contests/abc139/tasks/abc139_b)
+# [abc139_b (Power Socket)](https://atcoder.jp/contests/abc139/tasks/abc139_b)
 
 <details>
   <summary>알고리즘 분류</summary>

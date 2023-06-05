@@ -1,4 +1,4 @@
-# [abc156_c](https://atcoder.jp/contests/abc156/tasks/abc156_c)
+# [abc156_c (Rally)](https://atcoder.jp/contests/abc156/tasks/abc156_c)
 
 <details>
   <summary>알고리즘 분류</summary>
