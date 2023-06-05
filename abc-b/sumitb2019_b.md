@@ -1,4 +1,4 @@
-# [sumitb2019_b (Tax Rate)](https://atcoder.jp/contests/abc139/tasks/abc139_b)
+# [sumitb2019_b (Tax Rate)](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_b)
 
 <details>
   <summary>알고리즘 분류</summary>
