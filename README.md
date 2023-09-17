@@ -11,8 +11,9 @@ $ valgrind --tool=memcheck --leak-check=full --show-reachable=yes ./bin/main.out
 
 - [codeforces.com: Competitive Programming Roadmap (Target: [Gray, Blue])](https://codeforces.com/blog/entry/111099)
 - [codeforces.com: On "Is this greedy or DP?", forcing and rubber bands](https://codeforces.com/blog/entry/106346)
-- [reddit.com: A Guide to Competitive Programming: r/csMajors](https://www.reddit.com/r/csMajors/comments/z4qjzx/a_guide_to_competitive_programming/)
+- [dp-book.com: Dynamic Programming for Computing Contests](https://dp-book.com/Dynamic_Programming.pdf)
 - [kenkooo.com: AtCoder Problems](https://kenkoooo.com/atcoder#/table/)
+- [reddit.com: A Guide to Competitive Programming: r/csMajors](https://www.reddit.com/r/csMajors/comments/z4qjzx/a_guide_to_competitive_programming/)
 
 ---
 
