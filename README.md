@@ -1,4 +1,4 @@
-# 주의 사항
+## 주의 사항
 
 - 한 문제당 20 ~ 30분 정도 생각해보고 모르겠으면 바로 해설지의 풀이 과정을 꼼꼼하게 읽고 이해한 다음, 코드 직접 짜보기 
 - 해설지를 안 보고 문제를 풀었더라도 해설지를 읽어보며 또다른 풀이 과정이나 더 효율적인 방법이 있는지 꼭 확인하기
@@ -7,11 +7,10 @@
 $ valgrind --tool=memcheck --leak-check=full --show-reachable=yes ./bin/main.out
 ```
 
-# 참고 자료
+## 참고 자료
+
 
 - [codeforces.com: Competitive Programming Roadmap (Target: [Gray, Blue])](https://codeforces.com/blog/entry/111099)
-- [codeforces.com: On "Is this greedy or DP?", forcing and rubber bands](https://codeforces.com/blog/entry/106346)
-- [dp-book.com: Dynamic Programming for Computing Contests](https://dp-book.com/Dynamic_Programming.pdf)
 - [kenkooo.com: AtCoder Problems](https://kenkoooo.com/atcoder#/table/)
 - [reddit.com: A Guide to Competitive Programming: r/csMajors](https://www.reddit.com/r/csMajors/comments/z4qjzx/a_guide_to_competitive_programming/)
 
