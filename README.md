@@ -17,4 +17,5 @@ $ valgrind --tool=memcheck --leak-check=full --show-reachable=yes ./bin/main.out
 ---
 
 - [algs4.cs.princeton.edu: Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/)
+- [codeforces.com: On "Is this greedy or DP?", forcing and rubber bands](https://codeforces.com/blog/entry/106346)
 - [zhu45.org: How to Write Binary Search Correctly](https://zhu45.org/posts/2018/Jan/12/how-to-write-binary-search-correctly/)

@@ -16,7 +16,7 @@
 <details>
 <summary>펼치기 / 접기</summary>
 
-- [ ] [dp_a](https://atcoder.jp/contests/dp/tasks/dp_a)
+- [x] [dp_a](https://atcoder.jp/contests/dp/tasks/dp_a)
 - [ ] [dp_b](https://atcoder.jp/contests/dp/tasks/dp_b)
 - [ ] [dp_c](https://atcoder.jp/contests/dp/tasks/dp_c)
 - [ ] [dp_d](https://atcoder.jp/contests/dp/tasks/dp_d)
@@ -174,7 +174,6 @@
 
 ## 참고 자료
 
-- [codeforces.com: On "Is this greedy or DP?", forcing and rubber bands](https://codeforces.com/blog/entry/106346)
 - [dp-book.com: Dynamic Programming for Computing Contests](https://dp-book.com/Dynamic_Programming.pdf)
 - [youtube.com: Dynamic Programming lecture #1](https://www.youtube.com/watch?v=YBSt1jYwVfU&ab_channel=ErrichtoAlgorithms)
 - [youtube.com: Dynamic Programming lecture #2](https://www.youtube.com/watch?v=1mtvm2ubHCY&ab_channel=ErrichtoAlgorithms)
