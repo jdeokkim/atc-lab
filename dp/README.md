@@ -18,7 +18,7 @@
 
 - [x] [dp_a](https://atcoder.jp/contests/dp/tasks/dp_a)
 - [ ] [dp_b](https://atcoder.jp/contests/dp/tasks/dp_b)
-- [ ] [dp_c](https://atcoder.jp/contests/dp/tasks/dp_c)
+- [x] [dp_c](https://atcoder.jp/contests/dp/tasks/dp_c)
 - [ ] [dp_d](https://atcoder.jp/contests/dp/tasks/dp_d)
 - [ ] [dp_e](https://atcoder.jp/contests/dp/tasks/dp_e)
 - [ ] [dp_f](https://atcoder.jp/contests/dp/tasks/dp_f)
@@ -46,7 +46,7 @@
 
 - [ ] [abc208_b](https://atcoder.jp/contests/abc208/tasks/abc208_b)
 - [ ] [abc153_d](https://atcoder.jp/contests/abc153/tasks/abc153_d)
-- [ ] [abc247_c](https://atcoder.jp/contests/abc247/tasks/abc247_c)
+- [x] [abc247_c](https://atcoder.jp/contests/abc247/tasks/abc247_c)
 - [ ] [abc139_c](https://atcoder.jp/contests/abc139/tasks/abc139_c)
 - [ ] [abc229_c](https://atcoder.jp/contests/abc229/tasks/abc229_c)
 - [ ] [abc203_c](https://atcoder.jp/contests/abc203/tasks/abc203_c)
