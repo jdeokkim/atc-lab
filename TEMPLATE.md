@@ -2,8 +2,10 @@
 
 <details>
   <summary>알고리즘 분류</summary>
+
+  > Difficulty: ? (gray, brown, green, cyan)
   
-  *// TODO: ...*
+  *ad-hoc, backtrack, brute-force, dp, geometry, graph, math, simulation, string*
 </details>
 
 <br />
